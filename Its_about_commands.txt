@@ -3,3 +3,4 @@
 3 -----> git clone <remote_repository_url>
 4 -----> git add --all
 5 -----> git commit -m "<A_commit_message>"
+6 -----> git push
