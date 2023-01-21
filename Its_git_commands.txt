@@ -1,6 +1,16 @@
-1 -----> git 
-2 -----> git --version
-3 -----> git clone <remote_repository_url>
-4 -----> git add --all
-5 -----> git commit -m "<A_commit_message>"
-6 -----> git push
+1  -----> git 
+2  -----> git --version
+3  -----> git clone <remote_repository_url>
+4  -----> git add --all
+5  -----> git commit -m "<A_commit_message>"
+6  -----> git push
+<Update_the_file_in_remoterepository>
+7  -----> git pull
+8  -----> git branch 
+9  -----> git checkout -b <A_branch_name>
+10 -----> git checkout <A_branch_name>
+11 -----> git branch -d <A_branch_name>
+
+
+
+
